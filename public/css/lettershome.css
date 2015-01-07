@@ -1,0 +1,125 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* Micro clearfix via Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
+
+/* For modern browsers */
+ .cf:before, .cf:after {
+    content:"";
+    display:table;
+}
+.cf:after {
+    clear:both;
+}
+/* Micro clearfix for IE 6/7 (trigger hasLayout) */
+ .cf {
+    zoom:1;
+}
+body {
+  background-color: rgb(247,230,191);
+  background-color: rgba(247,230,191, 0.5);
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+line-height: 1.3;
+}
+/* faking responsive images */
+ img {
+    max-width: 100%;
+    opacity: 0;
+    -webkit-transition: all 500ms ease-in-out;
+-moz-transition: all 500ms ease-in-out;
+-ms-transition: all 500ms ease-in-out;
+-o-transition: all 500ms ease-in-out;
+transition: all 500ms ease-in-out;
+}
+h1, h2 {
+    color: #585747;
+    text-align: center;
+    font-weight: normal;
+    margin: 0;
+}
+h2 {
+    font-style: italic;
+}
+ul,
+footer {
+    margin: 0 auto;
+    width: 95%;
+  font-size: 18px;
+}
+footer {
+    color: #585747;
+  margin-top: 5%;
+}
+a,
+a:link, .credits {
+  color: #d71821;
+  text-decoration: none;
+}
+a:hover,
+.credits:hover {
+  color: #faa61a;
+  cursor: pointer;
+}
+li {
+    list-style: none;
+    margin: 0;
+  margin-bottom: 5px;
+    border: solid 1px #585747;
+    width:30%;
+    padding: 5px;
+    background-color: #585747;
+    border-radius: 5px;
+    color: transparent;
+    float: left;
+    font-size: 18px;
+  opacity: .7;
+}
+li:nth-child(3n+3),
+li:last-child {
+    font-size: 24px;
+}
+li:nth-child(4n+1) {
+    background-color: #d71821;
+    border: solid 1px #d71821;
+}
+li:nth-child(3n-4) {
+    background-color: #00AAAD;
+    border: solid 1px #00AAAD;    
+}
+li:nth-child(7) {
+    background-color: #faa61a;
+    border: solid 1px #faa61a;    
+}
+li:hover {
+    cursor: pointer;
+}
+li.active {
+    color: #fff;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, .3);
+  opacity: 1;
+}
+li.active img {
+    opacity: 1;
+}
+li.w2 {
+    width: 50%;
+}
+li.w3 {
+    width: 61%;
+}
+li.w4 {
+    width: 92%;
+    padding-right: 0;
+}
+li.directions {
+  background-color: transparent;
+  box-shadow: none;
+  color: #000;
+}
+.credits > .shown {
+  color: black;
+  display: none;
+}

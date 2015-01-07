@@ -1,0 +1,1 @@
+The hacked-together Hugo site, hosted on Github Pages.

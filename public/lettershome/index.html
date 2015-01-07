@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Letters Home (for Emma Willard)</title>
+
+  <style>
+ 
+
+ 
+
+ 
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block;
+}
+
+ 
+
+audio,
+canvas,
+video {
+    display: inline-block;
+}
+
+ 
+
+audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+
+ 
+
+[hidden] {
+    display: none;
+}
+
+ 
+
+ 
+
+html {
+    font-family: sans-serif;  
+    -ms-text-size-adjust: 100%;  
+    -webkit-text-size-adjust: 100%;  
+}
+
+ 
+
+body {
+    margin: 0;
+}
+
+ 
+
+ 
+
+a:focus {
+    outline: thin dotted;
+}
+
+ 
+
+a:active,
+a:hover {
+    outline: 0;
+}
+
+ 
+
+ 
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+
+ 
+
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+ 
+
+b,
+strong {
+    font-weight: bold;
+}
+
+ 
+
+dfn {
+    font-style: italic;
+}
+
+ 
+
+hr {
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    height: 0;
+}
+
+ 
+
+mark {
+    background: #ff0;
+    color: #000;
+}
+
+ 
+
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, serif;
+    font-size: 1em;
+}
+
+ 
+
+pre {
+    white-space: pre-wrap;
+}
+
+ 
+
+q {
+    quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+ 
+
+small {
+    font-size: 80%;
+}
+
+ 
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+ 
+
+ 
+
+img {
+    border: 0;
+}
+
+ 
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+ 
+
+ 
+
+figure {
+    margin: 0;
+}
+
+ 
+
+ 
+
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em;
+}
+
+ 
+
+legend {
+    border: 0;  
+    padding: 0;  
+}
+
+ 
+
+button,
+input,
+select,
+textarea {
+    font-family: inherit;  
+    font-size: 100%;  
+    margin: 0;  
+}
+
+ 
+
+button,
+input {
+    line-height: normal;
+}
+
+ 
+
+button,
+select {
+    text-transform: none;
+}
+
+ 
+
+button,
+html input[type="button"],  
+input[type="reset"],
+input[type="submit"] {
+    -webkit-appearance: button;  
+    cursor: pointer;  
+}
+
+ 
+
+button[disabled],
+html input[disabled] {
+    cursor: default;
+}
+
+ 
+
+input[type="checkbox"],
+input[type="radio"] {
+    box-sizing: border-box;  
+    padding: 0;  
+}
+
+ 
+
+input[type="search"] {
+    -webkit-appearance: textfield;  
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;  
+    box-sizing: content-box;
+}
+
+ 
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+ 
+
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+ 
+
+textarea {
+    overflow: auto;  
+    vertical-align: top;  
+}
+
+ 
+
+ 
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+</style>
+
+  <link rel='stylesheet' href='http://codepen.io/assets/libs/fullpage/jquery-ui.css'>
+
+    <style>
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+ 
+
+ 
+ .cf:before, .cf:after {
+    content:"";
+    display:table;
+}
+.cf:after {
+    clear:both;
+}
+ 
+ .cf {
+    zoom:1;
+}
+body {
+  background-color: rgb(247,230,191);
+  background-color: rgba(247,230,191, 0.5);
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+line-height: 1.3;
+}
+ 
+ img {
+    max-width: 100%;
+    opacity: 0;
+    -webkit-transition: all 500ms ease-in-out;
+-moz-transition: all 500ms ease-in-out;
+-ms-transition: all 500ms ease-in-out;
+-o-transition: all 500ms ease-in-out;
+transition: all 500ms ease-in-out;
+}
+h1, h2 {
+    color: #585747;
+    text-align: center;
+    font-weight: normal;
+    margin: 0;
+}
+h2 {
+    font-style: italic;
+}
+ul,
+footer {
+    margin: 0 auto;
+    width: 95%;
+  font-size: 18px;
+}
+footer {
+    color: #585747;
+  margin-top: 5%;
+}
+a,
+a:link, .credits {
+  color: #d71821;
+  text-decoration: none;
+}
+a:hover,
+.credits:hover {
+  color: #faa61a;
+  cursor: pointer;
+}
+li {
+    list-style: none;
+    margin: 0;
+  margin-bottom: 5px;
+    border: solid 1px #585747;
+    width:30%;
+    padding: 5px;
+    background-color: #585747;
+    border-radius: 5px;
+    color: transparent;
+    float: left;
+    font-size: 18px;
+  opacity: .7;
+}
+li:nth-child(3n+3),
+li:last-child {
+    font-size: 24px;
+}
+li:nth-child(4n+1) {
+    background-color: #d71821;
+    border: solid 1px #d71821;
+}
+li:nth-child(3n-4) {
+    background-color: #00AAAD;
+    border: solid 1px #00AAAD;    
+}
+li:nth-child(7) {
+    background-color: #faa61a;
+    border: solid 1px #faa61a;    
+}
+li:hover {
+    cursor: pointer;
+}
+li.active {
+    color: #fff;
+    box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, .3);
+  opacity: 1;
+}
+li.active img {
+    opacity: 1;
+}
+li.w2 {
+    width: 50%;
+}
+li.w3 {
+    width: 61%;
+}
+li.w4 {
+    width: 92%;
+    padding-right: 0;
+}
+li.directions {
+  background-color: transparent;
+  box-shadow: none;
+  color: #000;
+}
+.credits > .shown {
+  color: black;
+  display: none;
+}
+</style>
+
+  <script src="js/prefixfree.min.js"></script>
+  <script src="js/modernizr.js"></script>
+
+</head>
+
+<body>
+
+  <h1>Letters Home</h1>
+<h2>for Emma Willard</h2>
+<ul class="cf">
+  <li class="directions" title="Dismiss the directions.">Build your own poem. Click on a colored block to show or hide the content; drag-and-drop the  blocks to rearrange them, and the other blocks will adjust.</li>
+    <li class="">To the east, the Berkshires: smudged blue fingerprints on the horizon.</li>
+    <li class=" ">West-north-west, angle yourself properly,
+        <br/>orient your shoulderblades flat against the pile of white granite,
+        <br>and the light falls perpendicular to your gaze, rose gold and blue.</li>
+    <li class=" ">Go down the stairs and through the swinging doors.
+        <br>Put on someone else's face, someone else's clothes, someone else's words &mdash;
+        <br>when you leave, are you any realer?</li>
+    <li class="">The pond, the mud, the frogs,
+        <br>the abandoned boot, <em>potamogeton</em>,
+        <br>fragments of eggshell, all that lies to the south, the other side of the parking lot,
+        <br>beyond the pavement.</li>
+    <li class="w4">Passageways, honeycombed
+        <br>beneath us. Secret knowledge, now,
+        <br>their navigation, their existence.</li>
+    
+    <li class="">There are first kisses scattered here, like the dandelions behind the chapel.</li>
+    <li class=" w3">The carpet is shabby,
+        <br>but the piano is in tune. Can't
+        <br>have everything. What do you want?</li>
+    <li class="">
+        
+        Storms come from the world outside our gates, pale lightning
+        <br>striking out of the west.</li>
+    <li class="">The gargoyles are kind. They laugh,
+        <br>peer around corners, tumble,
+        <br>curious, shy, unshocked.</li>
+    <li class=" w3">There's been so much blood here over the years.
+        <br>The tiles in the bathrooms are all stained with iron.
+        <br>Wrists, uterus &mdash;
+        <br>a single river splitting and reuniting.</li>
+    <li class=" ">We're forbidden
+        <br>to have flame,
+        <br>even the smallest match cupped in our palms.
+        <br>Who needs fire
+        <br>when there are girls just coming into their power all around?</li>
+    <li class=" ">Honeysuckle, lilac, clover — the books
+        <br>are as sweet as the air.</li>
+    <li>We went to the cemetery
+        <br>halfway down the mountain to smoke.
+        <br>The graves exhaled.</li>
+
+    <li class=" ">This is not a mountain,
+        <br>but let's pretend.
+        <br>Let's pretend we belong here
+        <br>at the peak.</li>
+    <li class="w3">The gate is at a strange angle:
+        <br>enter and we are all a-kilter.
+        <br>Leave, and the world is skewed.
+        <br>Choose which way you face,
+        <br>inside or out,
+        <br>which strangeness is yours.</li>
+    <li class=" ">The sapling we planted for her
+        <br>is taller now than she ever was,
+        <br>than she ever will be.</li>
+    <li class="">
+        The small blazons over the door are blank &mdash;
+        <br>there's room for me to make my mark.</li>
+    <li class="">Ten years on,
+        <br>and my heart still beats to those rhythms.
+        <br>There's new anger,
+        <br>hundreds of miles separate us,
+        <br>but still: this is the kind of love you only get once,
+        <br>and that only if you're lucky.</li>
+    
+    <li class="">Even the names of the buildings
+        <br>are poetry, iambic pentameter,
+        <br>the English heroic line,
+        <br>click and tap of the educated palate.</li>
+    <li class="w4">This is where we learn bitterness:
+        <br>hazelnut, Sumatran, grief, failure.
+        <br>This is where we learn love.</li>
+</ul>
+<footer><p>Poetry &copy; 2013 <a href="http://www.elizabethyalkut.com">Elizabeth Yalkut</a>. <a href="http://codepen.io/elizabethyalkut/pen/vpLHc">Source code</a>. <span class="credits">Credits. <span class="shown">Layout: <a href="http://packery.metafizzy.co">Packery</a>. Colors: <a href="http://www.emmawillard.org/sites/emmawillard.org/files/EMMA_Visual_Style%20Guide_V1[1].pdf">Emma Willard School style guide</a>. Thanks to Megan E. Myers, Genevieve Goldleaf, Betsy Haibel, Danielle Church, John Walton, and Billy Wirasnik.</span></span> <cite>O ye grey walls protecting.</cite></p></footer>
+
+<script src='http://imagesloaded.desandro.com/imagesloaded.pkgd.min.js'></script>
+
+  <script src='http://codepen.io/assets/libs/fullpage/jquery_and_jqueryui.js'></script>
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/packery/1.1.2/packery.pkgd.min.js'></script>
+
+  <script src="/js/lettershome.js"></script>
+
+</body>
+
+</html>

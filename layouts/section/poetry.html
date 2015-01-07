@@ -1,0 +1,6 @@
+{{ partial "poetry-header.html" . }}
+<h1>Poetry</h1>
+{{ range .Data.Pages.ByWeight.Reverse }}
+{{ .Render "li"}}
+{{ end }}
+{{ partial "footer.html" . }}

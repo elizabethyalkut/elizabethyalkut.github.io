@@ -1,0 +1,148 @@
++++
+title = "cv"
+css = "cv"
+tags = [ "menu" ]
+
++++
+<header class="row">
+	<h1>Elizabeth Yalkut</h1>
+	<h2>Front-End Developer</h2>
+	<section class="small-8 columns">
+		<p>I'm here to make the internet better: more accessible, tidier, and easier to navigate. I create the user experience with CSS, HTML, and JavaScript.</p>
+		<p><i class="fa fa-file-pdf-o"></i><a href="/img/ElizabethYalkut.pdf"> Download my r&eacute;sum&eacute;.</a></p>
+	</section>
+	<section class="small-4 columns vcard boxed">
+		<li class="email"><i class="fa fa-envelope"></i> <strong>Email</strong>: ey@elizabethyalkut.com</li>
+		<li class="url"><i class="fa fa-home"></i> <strong>Website</strong>: elizabethyalkut.com</li>
+		<li><em>I'm not currently looking for a full-time position, and I am very limited in the number and scope of freelance projects I can take on.</em></li>
+	</section>
+</header>
+<section class="row" id="about">
+	<section class="small-6 columns">
+		<p>I'm a front-end developer dedicated to making the internet gorgeous, accessible, and useful. My job is to make information available and easy to understand, and I'm good at it.</p>
+	</section>
+	<section class="small-6 columns">
+		<p>I believe in collaboration, code review, and creative solutions.</p>
+	</section>
+</section>
+<section class="row" id="skills">
+	<h2>Skills and Knowledge</h2>
+	<p class="small-12 columns">I write concise <i class="fa fa-css3"></i>CSS and SASS that takes advantage of developing specifications and progressively enhances the user experience. My <i class="fa fa-html5"></i>HTML is semantic, accessible, and modular, putting content first. I know vanilla JavaScript, jQuery, and Angular. I've worked with <i class="fa fa-wordpress"></i>Wordpress, <i class="fa fa-drupal"></i>Drupal, and Django as CMSes, am comfortable with <i class="fa fa-git-square"></i>git and svn, and can conduct user tests and implement analytics strategies. I've worked in Agile teams, can turn a Photoshop image of a web site into a working site, and I document and test as I go.</p>
+</section>
+<section class="row" id="exp">
+	<h2>Experience</h2>
+	<dl>
+		<section class="boxed clearfix">
+		<div class="medium-4 columns">
+			<dt>Web Developer</dt>
+			<dd class="employer">Databases &amp; Web Initiatives, Office of Alumni and Development, Columbia University</dd>
+			<dd class="employment-period">July 2012 - present</dd>
+		</div>
+		<div class="medium-8 columns">
+			<dd class="job-description">
+				<p>The Databases & Web Initiatives team at the Office of Alumni and Development of Columbia University is responsible for maintenance and development of the donor database, as well as internal and external websites and applications.</p>
+				<ul>
+					<li>Design, maintain and develop Drupal, Wordpress and other sites written in PHP, JavaScript (jQuery and jQueryui), HTML/CSS</li>
+					<li>Produce technical outcomes based on user stories defined for one-week sprint cycles</li>
+					<li>Embrace emerging standards while promoting best practices</li>
+					<li>Partner with and train fellow team members, marketing, communication and CAA staff on CMS and HTML/CSS</li>
+					<li>Work well both independently and as part of a team</li>
+				</ul>
+			</dd>
+			<dd><strong>Key projects:</strong> redesign the online giving forms for Columbia University; relaunch of the internal Human Resources Planning & Performance Tool for Office of Alumni and Development (new design, user testing, front-end development, user training); lead development of CAA Arts Access website; implement automated testing and documentation of front-end code.</dd>
+		</div>
+		</section>
+		<section class="boxed clearfix">
+		<div class="medium-4 columns">
+			<dt>Front-End Developer</dt>
+			<dd class="employer">Threespot Media</dd>
+			<dd class="employment-period">October 2011 - June 2012</dd>
+		</div>
+		<div class="medium-8 columns">
+			<dd class="job-description">
+				<p>Threespot is an independent digital engagement agency that crafts experiences and connections between brands and consumers.</p>
+				<ul>
+					<li>Served as front-end lead on relaunch of MacArthur Foundation website</li>
+					<li>Created CSS and HTML for relaunch of Brookings Institute website, as part of a five-person team</li>
+				</ul>
+			</dd>
+		</div>
+		</section>
+		<section class="boxed clearfix">
+		<div class="medium-4 columns">
+			<dt>Developer</dt>
+			<dd class="employer">Do Something</dd>
+			<dd class="employment-period">June 2011 - September 2011</dd>
+		</div>
+		<div class="medium-8 columns">
+			<dd class="job-description">
+				<p>Do Something is a New York City not-for-profit dedicated to activating young people in their communities.</p>
+				<ul>
+					<li>Conducted A/B testing to improve user conversion rates </li>
+					<li>Created individually branded microsites for campaigns </li>
+				</ul>
+			</dd>
+		</div>
+		</section>
+		<section class="boxed clearfix">
+		<div class="medium-4 columns">
+			<dt>Computing Fellow</dt>
+			<dd class="employer">Barnard College Educational Technology</dd>
+			<dd class="employment-period">September 2008 - May 2011</dd>
+		</div>
+		<div class="medium-8 columns">
+			<dd class="job-description">
+				<p>Computing Fellows at Barnard College Educational Technology help faculty and staff integrate technology into their teaching and learning.</p>
+				<ul>
+					<li>Created podcasts introducing Internet law, social media, and user-generated content</li>
+					<li>Updated social media accounts, including Facebook and Twitter</li>
+					<li>Supported faculty and staff in use of software, including Office and Dreamweaver</li>
+					<li>Created, updated, and maintained PHP-based websites for academic departments</li>
+				</ul>
+			</dd>
+		</div>
+		</section>
+	</dl>
+</section>
+<section class="row">
+	<h2>Education</h2>
+	<dl class="small-12 columns">
+		<dt>Barnard College, Columbia University, Bachelor of Arts, History, May 2011</dt>
+		<dd>I wrote my senior thesis on the development of intellectual property law in eighteenth-century England, with particular reference to gender.</dd>
+		<dd>Courses include: Statistics, Research Seminar in History, Public Speaking</dd>
+		<dt>Emma Willard School, Diploma, June 2004</dt>
+	</dl>
+</section>
+<section class="row boxed">
+	<section class="small-6 columns">
+		<h2>Awards and Nominations</h2>
+		<dl>
+			<dt>2014 Best of the Net</dt>
+			<dd>Nominated by the Editors of Spry.</dd>
+			<dt>Tow Research Fellowship</dt>
+			<dd>Barnard College, 2010</dd>
+			<dd>Awarded to support senior thesis research.</dd>
+			<dt>Bertha Vapnek Research Fellowship</dt>
+			<dd>Barnard College, 2010</dd>
+			<dd>Awarded to support senior thesis research.</dd>
+			<dt>Bregman Computing Fellowship</dt>
+			<dd>Barnard College, 2009-2011</dd>
+			<dd>Awarded for ability to assist faculty and staff with technology</dd>
+			<dt>Elizabeth Hughes Gossett Scholarship</dt>
+			<dd>Barnard College, 2008-2009</dd>
+			<dd>Awarded to a student with demonstrated leadership skills and interest in public service</dd>
+		</dl>
+	</section>
+	<section class="small-6 columns">
+		<h2>Training</h2>
+		<ul>
+			<li>Google Analytics training 201 and 301, Luna Metrics, November 2014</li>
+			<li>UX Certification, Nielsen Norman Group, September 2014</li>
+			<li>SmashingConf, June 2014</li>
+			<li>Presenting Data and Information, Edward Tufte, October 2013</li>
+			<li>Negotiating to Win, American Management Association, April 2013</li>
+			</ul>
+	</section>
+	</section>
+<link href="//cdnjs.cloudflare.com/ajax/libs/foundation/5.3.3/css/foundation.min.css" rel="stylesheet" type="text/css">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">

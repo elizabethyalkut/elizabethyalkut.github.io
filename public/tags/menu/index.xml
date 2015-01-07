@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Menu on Elizabeth Yalkut </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:59142/tags/menu/index.xml/</link>
+    <language>en-us</language>
+    <author>Elizabeth Yalkut</author>
+    
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:59142/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>Elizabeth Yalkut</author>
+      <guid>http://localhost:59142/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Elizabeth Yalkut&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/monogram.png&#34; alt=&#34;Elizabeth Yalkut&#39;s monogram, an E and Y connected&#34; /&gt;
+ I’m a twentysomething (left ambiguous only because I’ll never remember to change it) writer in New York City, who graduated from Emma Willard School and Barnard College, Columbia University. I spend just as much time on the subway as you’d expect, drink more tea than you’d think, and eat less sushi than I’d like to.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Site&lt;/h2&gt;
+
+&lt;p&gt;ElizabethYalkut.com is hosted by &lt;a href=&#34;http://www.nearlyfreespeech.net/&#34;&gt;Nearly Free Speech&lt;/a&gt; and runs on &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://localhost:59142/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>Elizabeth Yalkut</author>
+      <guid>http://localhost:59142/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Contact&lt;/h1&gt;
+
+&lt;p&gt;To get in touch with me, ey@ this domain is your best bet. My Twitter account is &lt;a href=&#34;https://twitter.com/elizabethyalkut&#34;&gt;@elizabethyalkut&lt;/a&gt;. For irregular updates when I publish new fiction, poetry, or code, you can sign up to be notified &lt;a href=&#34;http://tinyletter.com/elizabethyalkut&#34;&gt;via tinyletter&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>cv</title>
+      <link>http://localhost:59142/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>Elizabeth Yalkut</author>
+      <guid>http://localhost:59142/cv/</guid>
+      <description>&lt;p&gt;&lt;header class=&#34;row&#34;&gt;
+    &lt;h1&gt;Elizabeth Yalkut&lt;/h1&gt;
+    &lt;h2&gt;Front-End Developer&lt;/h2&gt;
+    &lt;section class=&#34;small-8 columns&#34;&gt;
+        &lt;p&gt;I&amp;rsquo;m here to make the internet better: more accessible, tidier, and easier to navigate. I create the user experience with CSS, HTML, and JavaScript.&lt;/p&gt;
+        &lt;p&gt;&lt;i class=&#34;fa fa-file-pdf-o&#34;&gt;&lt;/i&gt;&lt;a href=&#34;/img/ElizabethYalkut.pdf&#34;&gt; Download my r&amp;eacute;sum&amp;eacute;.&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section class=&#34;small-4 columns vcard boxed&#34;&gt;
+        &lt;li class=&#34;email&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34;&gt;&lt;/i&gt; &lt;strong&gt;Email&lt;/strong&gt;: ey@elizabethyalkut.com&lt;/li&gt;
+        &lt;li class=&#34;url&#34;&gt;&lt;i class=&#34;fa fa-home&#34;&gt;&lt;/i&gt; &lt;strong&gt;Website&lt;/strong&gt;: elizabethyalkut.com&lt;/li&gt;
+        &lt;li&gt;&lt;em&gt;I&amp;rsquo;m not currently looking for a full-time position, and I am very limited in the number and scope of freelance projects I can take on.&lt;/em&gt;&lt;/li&gt;
+    &lt;/section&gt;
+&lt;/header&gt;
+&lt;section class=&#34;row&#34; id=&#34;about&#34;&gt;
+    &lt;section class=&#34;small-6 columns&#34;&gt;
+        &lt;p&gt;I&amp;rsquo;m a front-end developer dedicated to making the internet gorgeous, accessible, and useful. My job is to make information available and easy to understand, and I&amp;rsquo;m good at it.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section class=&#34;small-6 columns&#34;&gt;
+        &lt;p&gt;I believe in collaboration, code review, and creative solutions.&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+&lt;section class=&#34;row&#34; id=&#34;skills&#34;&gt;
+    &lt;h2&gt;Skills and Knowledge&lt;/h2&gt;
+    &lt;p class=&#34;small-12 columns&#34;&gt;I write concise &lt;i class=&#34;fa fa-css3&#34;&gt;&lt;/i&gt;CSS and SASS that takes advantage of developing specifications and progressively enhances the user experience. My &lt;i class=&#34;fa fa-html5&#34;&gt;&lt;/i&gt;HTML is semantic, accessible, and modular, putting content first. I know vanilla JavaScript, jQuery, and Angular. I&amp;rsquo;ve worked with &lt;i class=&#34;fa fa-wordpress&#34;&gt;&lt;/i&gt;Wordpress, &lt;i class=&#34;fa fa-drupal&#34;&gt;&lt;/i&gt;Drupal, and Django as CMSes, am comfortable with &lt;i class=&#34;fa fa-git-square&#34;&gt;&lt;/i&gt;git and svn, and can conduct user tests and implement analytics strategies. I&amp;rsquo;ve worked in Agile teams, can turn a Photoshop image of a web site into a working site, and I document and test as I go.&lt;/p&gt;
+&lt;/section&gt;
+&lt;section class=&#34;row&#34; id=&#34;exp&#34;&gt;
+    &lt;h2&gt;Experience&lt;/h2&gt;
+    &lt;dl&gt;
+        &lt;section class=&#34;boxed clearfix&#34;&gt;
+        &lt;div class=&#34;medium-4 columns&#34;&gt;
+            &lt;dt&gt;Web Developer&lt;/dt&gt;
+            &lt;dd class=&#34;employer&#34;&gt;Databases &amp;amp; Web Initiatives, Office of Alumni and Development, Columbia University&lt;/dd&gt;
+            &lt;dd class=&#34;employment-period&#34;&gt;July 2012 - present&lt;/dd&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;medium-8 columns&#34;&gt;
+            &lt;dd class=&#34;job-description&#34;&gt;
+                &lt;p&gt;The Databases &amp;amp; Web Initiatives team at the Office of Alumni and Development of Columbia University is responsible for maintenance and development of the donor database, as well as internal and external websites and applications.&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Design, maintain and develop Drupal, Wordpress and other sites written in PHP, JavaScript (jQuery and jQueryui), HTML/CSS&lt;/li&gt;
+                    &lt;li&gt;Produce technical outcomes based on user stories defined for one-week sprint cycles&lt;/li&gt;
+                    &lt;li&gt;Embrace emerging standards while promoting best practices&lt;/li&gt;
+                    &lt;li&gt;Partner with and train fellow team members, marketing, communication and CAA staff on CMS and HTML/CSS&lt;/li&gt;
+                    &lt;li&gt;Work well both independently and as part of a team&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/dd&gt;
+            &lt;dd&gt;&lt;strong&gt;Key projects:&lt;/strong&gt; redesign the online giving forms for Columbia University; relaunch of the internal Human Resources Planning &amp;amp; Performance Tool for Office of Alumni and Development (new design, user testing, front-end development, user training); lead development of CAA Arts Access website; implement automated testing and documentation of front-end code.&lt;/dd&gt;
+        &lt;/div&gt;
+        &lt;/section&gt;
+        &lt;section class=&#34;boxed clearfix&#34;&gt;
+        &lt;div class=&#34;medium-4 columns&#34;&gt;
+            &lt;dt&gt;Front-End Developer&lt;/dt&gt;
+            &lt;dd class=&#34;employer&#34;&gt;Threespot Media&lt;/dd&gt;
+            &lt;dd class=&#34;employment-period&#34;&gt;October 2011 - June 2012&lt;/dd&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;medium-8 columns&#34;&gt;
+            &lt;dd class=&#34;job-description&#34;&gt;
+                &lt;p&gt;Threespot is an independent digital engagement agency that crafts experiences and connections between brands and consumers.&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Served as front-end lead on relaunch of MacArthur Foundation website&lt;/li&gt;
+                    &lt;li&gt;Created CSS and HTML for relaunch of Brookings Institute website, as part of a five-person team&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/dd&gt;
+        &lt;/div&gt;
+        &lt;/section&gt;
+        &lt;section class=&#34;boxed clearfix&#34;&gt;
+        &lt;div class=&#34;medium-4 columns&#34;&gt;
+            &lt;dt&gt;Developer&lt;/dt&gt;
+            &lt;dd class=&#34;employer&#34;&gt;Do Something&lt;/dd&gt;
+            &lt;dd class=&#34;employment-period&#34;&gt;June 2011 - September 2011&lt;/dd&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;medium-8 columns&#34;&gt;
+            &lt;dd class=&#34;job-description&#34;&gt;
+                &lt;p&gt;Do Something is a New York City not-for-profit dedicated to activating young people in their communities.&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Conducted A/B testing to improve user conversion rates &lt;/li&gt;
+                    &lt;li&gt;Created individually branded microsites for campaigns &lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/dd&gt;
+        &lt;/div&gt;
+        &lt;/section&gt;
+        &lt;section class=&#34;boxed clearfix&#34;&gt;
+        &lt;div class=&#34;medium-4 columns&#34;&gt;
+            &lt;dt&gt;Computing Fellow&lt;/dt&gt;
+            &lt;dd class=&#34;employer&#34;&gt;Barnard College Educational Technology&lt;/dd&gt;
+            &lt;dd class=&#34;employment-period&#34;&gt;September 2008 - May 2011&lt;/dd&gt;
+        &lt;/div&gt;
+        &lt;div class=&#34;medium-8 columns&#34;&gt;
+            &lt;dd class=&#34;job-description&#34;&gt;
+                &lt;p&gt;Computing Fellows at Barnard College Educational Technology help faculty and staff integrate technology into their teaching and learning.&lt;/p&gt;
+                &lt;ul&gt;
+                    &lt;li&gt;Created podcasts introducing Internet law, social media, and user-generated content&lt;/li&gt;
+                    &lt;li&gt;Updated social media accounts, including Facebook and Twitter&lt;/li&gt;
+                    &lt;li&gt;Supported faculty and staff in use of software, including Office and Dreamweaver&lt;/li&gt;
+                    &lt;li&gt;Created, updated, and maintained PHP-based websites for academic departments&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/dd&gt;
+        &lt;/div&gt;
+        &lt;/section&gt;
+    &lt;/dl&gt;
+&lt;/section&gt;
+&lt;section class=&#34;row&#34;&gt;
+    &lt;h2&gt;Education&lt;/h2&gt;
+    &lt;dl class=&#34;small-12 columns&#34;&gt;
+        &lt;dt&gt;Barnard College, Columbia University, Bachelor of Arts, History, May 2011&lt;/dt&gt;
+        &lt;dd&gt;I wrote my senior thesis on the development of intellectual property law in eighteenth-century England, with particular reference to gender.&lt;/dd&gt;
+        &lt;dd&gt;Courses include: Statistics, Research Seminar in History, Public Speaking&lt;/dd&gt;
+        &lt;dt&gt;Emma Willard School, Diploma, June 2004&lt;/dt&gt;
+    &lt;/dl&gt;
+&lt;/section&gt;
+&lt;section class=&#34;row boxed&#34;&gt;
+    &lt;section class=&#34;small-6 columns&#34;&gt;
+        &lt;h2&gt;Awards and Nominations&lt;/h2&gt;
+        &lt;dl&gt;
+            &lt;dt&gt;2014 Best of the Net&lt;/dt&gt;
+            &lt;dd&gt;Nominated by the Editors of Spry.&lt;/dd&gt;
+            &lt;dt&gt;Tow Research Fellowship&lt;/dt&gt;
+            &lt;dd&gt;Barnard College, 2010&lt;/dd&gt;
+            &lt;dd&gt;Awarded to support senior thesis research.&lt;/dd&gt;
+            &lt;dt&gt;Bertha Vapnek Research Fellowship&lt;/dt&gt;
+            &lt;dd&gt;Barnard College, 2010&lt;/dd&gt;
+            &lt;dd&gt;Awarded to support senior thesis research.&lt;/dd&gt;
+            &lt;dt&gt;Bregman Computing Fellowship&lt;/dt&gt;
+            &lt;dd&gt;Barnard College, 2009-2011&lt;/dd&gt;
+            &lt;dd&gt;Awarded for ability to assist faculty and staff with technology&lt;/dd&gt;
+            &lt;dt&gt;Elizabeth Hughes Gossett Scholarship&lt;/dt&gt;
+            &lt;dd&gt;Barnard College, 2008-2009&lt;/dd&gt;
+            &lt;dd&gt;Awarded to a student with demonstrated leadership skills and interest in public service&lt;/dd&gt;
+        &lt;/dl&gt;
+    &lt;/section&gt;
+    &lt;section class=&#34;small-6 columns&#34;&gt;
+        &lt;h2&gt;Training&lt;/h2&gt;
+        &lt;ul&gt;
+            &lt;li&gt;Google Analytics training 201 and 301, Luna Metrics, November 2014&lt;/li&gt;
+            &lt;li&gt;UX Certification, Nielsen Norman Group, September 2014&lt;/li&gt;
+            &lt;li&gt;SmashingConf, June 2014&lt;/li&gt;
+            &lt;li&gt;Presenting Data and Information, Edward Tufte, October 2013&lt;/li&gt;
+            &lt;li&gt;Negotiating to Win, American Management Association, April 2013&lt;/li&gt;
+            &lt;/ul&gt;
+    &lt;/section&gt;
+    &lt;/section&gt;
+&lt;link href=&#34;//cdnjs.cloudflare.com/ajax/libs/foundation/5.3.3/css/foundation.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+&lt;link href=&#34;//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>http://localhost:59142/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      <author>Elizabeth Yalkut</author>
+      <guid>http://localhost:59142/portfolio/</guid>
+      <description>&lt;p&gt;I make things. I make food, novels, websites, mistakes, friendships, and pots of tea. Among others. (The tea and websites are my favorites.)&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m one-half of the &lt;a href=&#34;http://irregulargentlewomen.org/&#34;&gt;Irregular Gentlewomen&lt;/a&gt;, a hacktivist collective dedicated to curiosity, feminism, and dragons, and which &lt;a href=&#34;https://github.com/irregulargentlewomen&#34;&gt;open sources code&lt;/a&gt;. I try to &lt;a href=&#34;https://github.com/elizabethyalkut&#34;&gt;open-source as much of my other projects as possible&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;&lt;input type=&#34;radio&#34; id=&#34;select-all&#34; name=&#34;button&#34;&gt;
+&lt;label for=&#34;select-all&#34; class=&#34;label-all&#34;&gt; All &lt;/label&gt;
+&lt;input type=&#34;radio&#34; id=&#34;select-personal&#34; name=&#34;button&#34;&gt;
+&lt;label for=&#34;select-personal&#34; class=&#34;label-personal&#34;&gt; Personal &lt;/label&gt;
+&lt;input type=&#34;radio&#34; id=&#34;select-wfh&#34; name=&#34;button&#34;&gt;
+&lt;label for=&#34;select-wfh&#34; class=&#34;label-wfh&#34;&gt; Work-For-Hire &lt;/label&gt;
+
+&lt;ul class=&#34;gallery&#34;&gt;
+    &lt;li class=&#34;wfh-item&#34;&gt;&lt;a href=&#34;http://giving.columbia.edu/givingdaysocialmedia/&#34;&gt;&lt;img src=&#34;/img/cgd2014.png&#34; /&gt;&lt;p&gt;Columbia Giving Day 2014&lt;/p&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li class=&#34;wfh-item&#34;&gt;&lt;a href=&#34;http://alumdev.columbia.edu/planperform&#34;&gt;&lt;img src=&#34;/img/pptool.png&#34; /&gt;&lt;p&gt;Planning &amp;amp; Performance Tool&lt;/p&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;li class=&#34;personal-item&#34;&gt;&lt;a href=&#34;../lettershome&#34;&gt; &lt;img src=&#34;/img/lettershome.png&#34; /&gt;
+        &lt;p&gt;Letters Home&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;li class=&#34;wfh-item&#34;&gt; &lt;a href=&#34;http://giving.columbia.edu/givingday&#34;&gt;&lt;img src=&#34;/img/cgd2013.png&#34; /&gt;
+        &lt;p&gt;Columbia Giving Day 2013&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;li class=&#34;personal-item&#34;&gt;&lt;a href=&#34;http://irregulargentlewomen.org/wendyclock&#34;&gt; &lt;img src=&#34;/img/wendyclock.png&#34; /&gt;
+        &lt;p&gt;#wendyclock&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;li class=&#34;wfh-item&#34;&gt; &lt;a href=&#34;http://alumniarts.columbia.edu&#34;&gt;&lt;img src=&#34;/img/artsaccess.png&#34; /&gt;
+        &lt;p&gt;Arts Access&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;li class=&#34;wfh-item&#34;&gt; &lt;a href=&#34;http://careers.alumdev.columbia.edu/&#34;&gt;&lt;img src=&#34;/img/careers.png&#34; /&gt;
+        &lt;p&gt;My Columbia Career&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;li class=&#34;personal-item&#34;&gt; &lt;a href=&#34;http://ratedrforrapist.herokuapp.com/&#34;&gt;&lt;img src=&#34;/img/ratedr.png&#34; /&gt;
+        &lt;p&gt;Rated R for Rapist&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;li class=&#34;personal-item&#34;&gt; &lt;a href=&#34;http://carolynyalkut.com/&#34;&gt;&lt;img src=&#34;/img/cy.png&#34; /&gt;
+        &lt;p&gt;Carolyn Yalkut&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;li class=&#34;personal-item&#34;&gt; &lt;a href=&#34;http://irregulargentlewomen.github.io/feminist-bingo/&#34;&gt;&lt;img src=&#34;/img/card.png&#34; /&gt;
+        &lt;p&gt;Interactive Feminist Bingo&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;li class=&#34;wfh-item&#34;&gt; &lt;a href=&#34;http://www.macfound.org&#34;&gt;&lt;img src=&#34;/img/macarthur.png&#34; /&gt;
+        &lt;p&gt;MacArthur Foundation&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;
+    &lt;!--&lt;li class=&#34;wfh-item&#34;&gt; &lt;a href=&#34;http://www.genevievecalligraphy.com&#34;&gt;&lt;img src=&#34;http://elizabethyalkut.com/portfolio/images/genevieve.jpg&#34; /&gt;
+        &lt;p&gt;Genevieve Calligraphy&lt;/p&gt;
+        &lt;/a&gt; &lt;/li&gt;--&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

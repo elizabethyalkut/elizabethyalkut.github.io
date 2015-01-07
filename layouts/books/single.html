@@ -1,0 +1,27 @@
+{{ partial "books-header.html" . }}
+
+<section id="main">
+  <h1 id="title">{{ .Title }}, by {{ .Params.bookauthor }}</h1>
+  <div>
+        <article id="content">
+           {{ .Content }}
+        </article>
+  </div>
+</section>
+
+<aside id="meta">
+    <ul>
+      <li>Published {{ .Date.Format "2 January 2006" }} </li>
+      <li>This review is {{ .WordCount }} words long.</li>
+    </ul>
+    <div>
+        {{ if .Prev }}
+          <a class="previous" href="{{.Prev.Permalink}}">&larr; {{.Prev.Title}}</a>
+        {{ end }}
+        {{ if .Next }}
+          <a class="next" href="{{.Next.Permalink}}"> {{.Next.Title}} &rarr;</a>
+        {{ end }}
+    </div>
+</aside>
+
+{{ partial "footer.html" . }}

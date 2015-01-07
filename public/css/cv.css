@@ -1,0 +1,28 @@
+.cv {
+	background: url('/img/square_bg.png'), rgba(0, 153, 102, .25);
+}
+.cv > p,
+footer {
+	display: none;
+}
+h1, h2, h3 {
+  text-align: center;
+}
+.cv a {
+  color: #096;
+	border-bottom: solid 1px transparent;
+}
+.cv a:hover {
+	color: #096;
+	border-bottom-color: #096;
+}
+.cv .row {
+	background-color: rgba(256,256,256,.5);
+}
+#exp .boxed {
+    border-top: dotted 1px #096;
+    padding-top: 10px;
+}
+#exp .boxed:first-of-type {
+    border-top-width: 0;
+}

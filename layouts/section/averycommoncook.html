@@ -1,0 +1,5 @@
+{{ partial "header.html" . }}
+{{ range .Data.Pages.ByWeight.Reverse }}
+{{ .Render "li"}}
+{{ end }}
+{{ partial "footer.html" . }}

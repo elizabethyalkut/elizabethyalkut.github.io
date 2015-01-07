@@ -1,0 +1,136 @@
+/*
+Name: Blockhead
+URL: http://www.elizabethyalkut.com
+Author: Elizabeth Yalkut
+Email: ey@elizabethyalkut.com
+Comments: This CSS was inspired by http://www.wordle.net and owes a debt to http://snook.ca/s/952.
+*/
+/* fonts */
+@import url(http://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+@import url(http://fonts.googleapis.com/css?family=Josefin+Slab);
+@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Crushed);
+@import url(http://fonts.googleapis.com/css?family=Crimson+Text);
+@import url(http://fonts.googleapis.com/css?family=Cardo);
+@import url(http://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://fonts.googleapis.com/css?family=Bentham);
+@import url(http://fonts.googleapis.com/css?family=Cabin);
+/*reset */
+a {
+	border: 0;
+	outline: 0;
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	color: #096;
+}
+ul, li {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+/*shiny things*/
+body {
+	overflow: hidden;
+}
+.typography {
+	font-size: 60px;
+	margin: 0 auto;
+	position: relative;
+	width: 800px;
+}
+li a {
+	padding-right: 40px;
+}
+.name {
+	font-family: "Josefin Sans", "Gill Sans", "Helvetica Neue", sans-serif;
+	color: #096;
+	font-size: 70px;
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
+	top: 250px;
+}
+.about {
+	font-family: "Permanent Marker", Arial, "Helvetica Neue", sans-serif;
+	position: relative;
+	top: 40px;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-khtml-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-chrome-transform: rotate(90deg);
+	transform: rotate(90deg);
+	width: 200px;
+	left:340px;
+}
+.contact {
+	font-family: "Josefin Slab", Arial, "Helvetica Neue", sans-serif;
+	position: relative;
+	left: 475px;
+	top: 28px;
+}
+.blog {
+	font-family: "Lobster", Arial, "Helvetica Neue", sans-serif;
+	position: relative;
+	left: 463px;
+	top: 87px;
+}
+.twitter {
+	font-family: "Crushed", Arial, "Helvetica Neue", sans-serif;
+	position: relative;
+	width: 150px;
+	left: 50px;
+	top: -50px;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-khtml-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-chrome-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+}
+.code {
+	font-family: "Dancing Script", Arial, "Helvetica Neue", sans-serif;
+	position: relative;
+	left: 190px;
+	top: -57px;
+	width: 200px;
+}
+.resume {
+	font-family: "Cardo", Arial, "Helvetica Neue", sans-serif;
+	position: relative;
+	left: 190px;
+	top: -260px;
+	width: 180px;
+}
+.writing {
+	font-family: "Lato", Arial, "Helvetica Neue", sans-serif;
+	position: relative;
+	left: 290px;
+	top: 50px;
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-khtml-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+.tumblr {
+	font-family: "Bentham", Arial, "Helvetica Neue", sans-serif;
+	position: relative;
+	left: 321px;
+	top: -225px;
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+	-khtml-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-chrome-transform: rotate(-90deg);
+	transform: rotate(-90deg);
+	width: 200px;
+}

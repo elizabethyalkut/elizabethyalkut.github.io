@@ -1,0 +1,6 @@
+theme = "mistral"
+baseurl = "http://www.elizabethyalkut.com"
+languageCode = "en-us"
+title = "Elizabeth Yalkut"
+[author]
+	name = "Elizabeth Yalkut"
